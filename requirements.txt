@@ -1,6 +1,6 @@
 configargparse==1.4
 matplotlib==3.3.4
-numpy==1.19.5
+numpy==1.21.0
 opencv-python==4.4.0.44
 pip==21.1
 pyntcloud==0.1.4
